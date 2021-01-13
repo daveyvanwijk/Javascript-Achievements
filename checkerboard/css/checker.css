@@ -1,2 +1,11 @@
-td.red { background-color: black; } 
-td.white { background-color: white; }
+td.red { 
+    background-color: black;
+    width: 75px; 
+    height: 75px;
+} 
+td.white { 
+    background-color: white; 
+    width: 75px;
+    height: 75px;
+}
+table { background-color: black; }
